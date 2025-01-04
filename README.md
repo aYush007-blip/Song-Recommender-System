@@ -9,9 +9,11 @@ Sleek Animations: Enjoy a modern, polished design.
 
 🚀 Try It Now
 Clone the repo and run the app:
-Copy code
-git clone https://github.com/your-username/song-recommendation-system.git  
+
+Copy code git clone https://github.com/your-username/song-recommendation-system.git  
 cd song-recommendation-system  
 pip install -r requirements.txt  
 streamlit run app.py  
+
+
 Explore music like never before! 🎧
