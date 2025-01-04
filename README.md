@@ -1,8 +1,10 @@
 # Song-Recommender-System
+
 🎶 Song Recommendation System Find your next favorite tune with this AI-powered app! Enter a song you love, and get personalized recommendations with a beautiful, interactive interface.
 
 🌟 Features
-Smart Recommendations: Discover similar songs you’ll enjoy.
+Smart Recommendations: 
+Discover similar songs you’ll enjoy.
 Interactive UI: Search, filter, and explore effortlessly.
 Visual Insights: View suggestions in stunning charts.
 Sleek Animations: Enjoy a modern, polished design.
