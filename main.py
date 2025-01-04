@@ -8,7 +8,7 @@ import requests
 import plotly.express as px
 
 # Load the song data from the CSV file
-df = pd.read_csv("C:/Users/HP/Desktop/jupyter/songs_data.csv")
+df = pd.read_csv("songs_data.csv")
 
 # Preprocessing
 df['Original_Song'] = df['Song']
